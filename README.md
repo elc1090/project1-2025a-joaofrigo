@@ -18,7 +18,7 @@ Acesso: https://brief-eudora-sou-aluno-46f86fb9.koyeb.app/trabalho_1
 João Marcos Wilhelms Frigo
 
 #### Cliente
-Isaac
+Isaac Silva dos Santos
 
 #### Site/app original
 É a página do site de jogos da 2K, uma distribuidora de jogos.
