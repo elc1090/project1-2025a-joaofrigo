@@ -9,7 +9,7 @@
 > 6. Entregue este README.md dentro da pasta raiz do seu repositório de entrega. Peça ajuda se não souber como editar ou entregar!
 > Opcional: você pode alterar a formatação do README, mas mantenha todas as informações solicitadas
 
-![Substitua a imagem ao lado por um screenshot do seu projeto](img/Recording 2025-03-31 at 18.09.12.gif)
+![Substitua a imagem ao lado por um gif do seu projeto](img/Recording%202025-03-31%20at%2018.09.12.gif)
 
 
 Acesso: https://brief-eudora-sou-aluno-46f86fb9.koyeb.app/trabalho_1
