@@ -12,52 +12,52 @@
 ![Substitua a imagem ao lado por um screenshot do seu projeto](img/chops-ux-step-4.png "Screenshot do projeto. Imagem temporária extraída de https://mdswanson.com/static/chops-ux-step-4.png")
 
 
-Acesso: Substitua este texto pela URL para acesso ao site publicado
-
+Acesso: https://brief-eudora-sou-aluno-46f86fb9.koyeb.app/trabalho_1
 
 #### Desenvolvedor(a)
-Substitua este texto pela sua identificação: nome e curso
+João Marcos Wilhelms Frigo
 
 #### Cliente
-Substitua este texto pela identificação do cliente
-
-
-
+Isaac
 
 #### Site/app original
+É a página do site de jogos da 2K, uma distribuidora de jogos.
 
 ##### Link
-Substitua este texto pela URL do site/app escolhido
+https://www.2k.com/en-US/
 
 ##### Descrição
-Substitua este texto por uma descrição do site/app escolhido. Inclua observações sobre seu conteúdo, aparência e código.
+O Site escolhido é o site oficial da distruibidora de jogos 2K. Eles tem um design de site simplista e com imagens interativas, tanto no centro da tela
+com um imagens dos jogos principais sendo vendidos, como outros setores abaixo com retângulos com imagens de outros jogos, mas dessa vez, estáticos, que 
+ao serem passados o mouse em cima, as imagens são responsivas. O design inclusive mudou desde a ultima aula que vimos o site (cliente e desenvolvedor),
+foi escolhido o design mais antigo do site em comparação, para não precisar reciclar código e pela ainda satisfação do cliente.
 
 #### Demanda do(a) cliente
-Substitua este texto pela demanda do(a) cliente
+A demanda se resumia às imagens de jogos que mudavam ao longo do tempo e à interatividade com o mouse das imagens de jogos abaixo do quadrado principal do site.
 
 #### Desenvolvimento
-
-Substitua este texto por uma descrição do processo de desenvolvimento, explicando suas escolhas para o remake e etapas do trabalho (por exemplo, como foi coletado o conteúdo, como você lidou com as demandas, etc.)
+Já que o site já era simplista, no desenvolvimento decidi começar o código do zero sem qualquer tipo de scraping, apenas com inspiração de como devia ficar. O 
+remake então, envolveria mais criar um site levemente diferente com inspiração mas com jogos diferentes do site principal da 2K. As demandas então foram provi-
+denciadas primeiro antes de qualquer coisa com placeholders e depois sendo feito a escolha de design para acomodar a inspiração do site original.
 
 
 #### Tecnologias
 
 Substitua este trecho por uma lista detalhada de tecnologias usadas (tanto as básicas, como HTML e CSS, como as mais específicas, por exemplo Tailwind, etc.):
-- ...
-- ...
-- 
+- Python
+- Django
+- Whitenoise
+- Gunicorn (num Procfile)
+- Koyeb (para o deploy)
 
 #### Ambiente de desenvolvimento
 
-Substitua este trecho por uma lista detalhada dos ambientes/ferramentas de desenvolvimento que você usou (por exemplo, VS Code + alguma extensão, etc.)
-- ...
-- ...
+VS Code, com extensões para Python e Django.
 
 #### Referências e créditos
 
-Substitua este trecho por uma lista bem detalhada de todo material que você consultou para ajudar no projeto, por exemplo:  URL de templates usados, URL de icon kits usados, créditos para colegas que colaboraram, geradores de código (incluindo alguns prompts usados para o ChatGPT, se for o caso)
-- ...
-- ...
+Usei meu drive de anotações Django e python com experiências passadas para a maior parte do projeto, até mesmo no deploy do Koyeb (como em projeto de software 2)
+Usei o ChatGpt para sanar o resto das duvidas necessárias (como lidar com o Debug=False do django para imagens como arquivos estáticos por exemplo)
 
 
 
