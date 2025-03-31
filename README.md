@@ -37,8 +37,7 @@ A demanda se resumia às imagens de jogos que mudavam ao longo do tempo e à int
 
 #### Desenvolvimento
 Já que o site já era simplista, no desenvolvimento decidi começar o código do zero sem qualquer tipo de scraping, apenas com inspiração de como devia ficar. O 
-remake então, envolveria mais criar um site levemente diferente com inspiração mas com jogos diferentes do site principal da 2K. As demandas então foram provi-
-denciadas primeiro antes de qualquer coisa com placeholders e depois sendo feito a escolha de design para acomodar a inspiração do site original.
+remake então, envolveria mais criar um site levemente diferente com inspiração mas com jogos diferentes do site principal da 2K. As demandas então foram providenciadas primeiro antes de qualquer coisa com placeholders e depois sendo feito a escolha de design para acomodar a inspiração do site original.
 
 
 #### Tecnologias
@@ -56,7 +55,7 @@ VS Code, com extensões para Python e Django.
 
 #### Referências e créditos
 
-Usei meu drive de anotações Django e python com experiências passadas para a maior parte do projeto, até mesmo no deploy do Koyeb (como em projeto de software 2)
+Usei meu drive de anotações Django e python com experiências passadas para a maior parte do projeto, até mesmo no deploy do Koyeb (como em projeto de software 2).
 Usei o ChatGpt para sanar o resto das duvidas necessárias (como lidar com o Debug=False do django para imagens como arquivos estáticos por exemplo)
 
 
